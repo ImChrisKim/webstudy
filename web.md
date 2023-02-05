@@ -97,7 +97,9 @@
 - 어떤태그가 block, inline 인지
 
 - position 에 대해서
-- 
+  - fix : 페이지가 바뀌어도 움직이지 않음
+  - relative : 현재 위치 기준으로 움직임
+  - absolute : 부모 class 기준으로 움직임
 
 - z-index
 
